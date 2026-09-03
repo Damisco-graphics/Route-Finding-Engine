@@ -187,7 +187,7 @@ This project focuses on practical implementation of **graph search and pathfindi
 * Algorithm comparison
 * Route reconstruction
 
-The same graph can be explored using fundamentally different search policies, providing a direct comparison of how search strategy affects the route discovered and the nodes explored.
+The same graph can be explored using fundamentally different search policies, providing a direct comparison of how search strategy affects the route discovered and the nodes explored..
 
 ## Visualization
 
