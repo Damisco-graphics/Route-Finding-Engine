@@ -1,9 +1,7 @@
-# Route-Finding---Part-1
+# Route-Finding Engine
 Route-finding engine implementing DFS, BFS, Best-First Search, and A* on weighted map graphs, with performance analysis and standardized search metrics
 
-# Route Finding Part 1
-
-A graph-based route-finding engine that implements and compares four search strategies on weighted map graphs: **Depth-First Search, Breadth-First Search, Best-First Search, and A***.
+It's graph-based route-finding engine that implements and compares four search strategies on weighted map graphs: **Depth-First Search, Breadth-First Search, Best-First Search, and A***.
 
 The project explores how different graph search strategies navigate the same map while tracking path cost, heuristic values, evaluation functions, search depth, and frontier (OPEN-list) behavior.
 
