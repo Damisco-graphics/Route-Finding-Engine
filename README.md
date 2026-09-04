@@ -199,4 +199,4 @@ Visualization is supplementary to the core search engine and is not required for
 
 ### Technologies & Concepts
 
-**Python · Graph Algorithms · Pathfinding · DFS · BFS · Best-First Search · A* · Heuristics · Weighted Graphs · Algorithm Analysis**
+**Python · Graph Algorithms · Pathfinding · DFS · BFS · Best-First Search · A* · Heuristics · Weighted Graphs · Algorithm Analysis.**
